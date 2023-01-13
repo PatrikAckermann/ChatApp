@@ -1,0 +1,33 @@
+{
+    "info": {"languages": ["de", "en"]},
+    "translations":
+    {
+        "register": {"de": "Registrieren", "en": "Register"},
+        "login": {"de": "Anmelden", "en": "Log in"},
+        "name": {"de": "Name", "en": "Name"},
+        "confirm": {"de": "Bestätigen", "en": "Confirm"},
+        "couldntRegister": {"de": "Server nicht erreichbar. Versuch es später erneut.", "en": "Can't reach server. Try again later."},
+        "invalid": {"de": "Ungültiger Nutzername oder Passwort", "en": "Invalid Username or Password"},
+        "usernameTaken": {"de": "Dieser Name wird bereits verwendet.", "en": "This name is already being used."},
+        "numbersOnly": {"de": "Der Name darf nicht mit einer Zahl beginnen.", "en": "The name isn't allowed to start with a number."},
+        "notAlphanumeric": {"de": "Der Name darf nur Buchstaben und Zahlen enthalten", "en": "The name can only have letters and numbers."},
+        "invalidPassword": {"de": "Das Passwort ist falsch.", "en": "This is the wrong password."},
+        
+        "newChat": {"de": "Neuen Chat erstellen", "en": "Create new chat"},
+        "chatRequests": {"de": "Chatanfragen", "en": "Chat requests"},
+        "send": {"de": "Senden", "en": "Send"},
+        "username": {"de": "Nutzername", "en": "Username"},
+        "password": {"de": "Passwort", "en": "Password"},
+        "you": {"de": "Du", "en": "You"},
+        "yes": {"de": "Ja", "en": "Yes"},
+        "no": {"de": "Nein", "en": "No"},
+        "requests": {"de": "Anfragen aktivieren?", "en": "Activate requests?"},
+        "language": {"de": "Sprache", "en": "Language"},
+        "accept": {"de": "Akzeptieren", "en":"Accept"},
+        "decline": {"de": "Ablehnen", "en":"Decline"},
+        "noRequests": {"de": "Du hast keine Anfragen.", "en":"You have no requests."},
+        "logout": {"de": "Abmelden", "en":"Log out"},
+        "online": {"de": "Online", "en": "Online"},
+        "offline": {"de": "Offline", "en": "Offline"}
+    }
+}
